@@ -7,6 +7,7 @@
 - 📫 How to reach me **sakshayaggarwal@gmail.com**
 
 - ⚡ Fun fact **I Am currently amazed by Gen AI and learning about various spheres of Artificial intelligence.**
+- You can fid my projects here - https://vercel.com/sakshi-111s-projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
